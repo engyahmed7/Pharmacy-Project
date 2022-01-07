@@ -1,0 +1,495 @@
+.container {
+  width: 100%;
+}
+
+.navbar-light .navbar-brand {
+  color: #3a8bcd;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.navbar-light .navbar-brand:hover {
+  color: #3a8bcd;
+}
+.first .navbar {
+  height: 100px;
+  background-color: white;
+  border-bottom: solid 1px lightgray;
+}
+
+.first .navbar-light .navbar-brand {
+  color: #3a8bcd;
+}
+.bg-light {
+  background-color: white !important;
+}
+.navbar-nav {
+  margin: 0 auto;
+  text-align: center;
+}
+.navbar-nav .nav-link {
+  padding-right: 25px !important;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.navbar-nav .nav-link a {
+  padding-right: 25px !important;
+  font-size: 15px;
+  font-weight: bold;
+  color: #3a8bcd;
+}
+.navbar-nav .nav-link a .active {
+  padding-right: 25px !important;
+  font-size: 15px;
+  font-weight: bold;
+  color: #000000;
+}
+.navbar-nav .nav-item .active {
+  color: #212223;
+}
+.navbar-light .navbar-nav .active > .nav-link,
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .nav-link.show,
+.navbar-light .navbar-nav .show > .nav-link {
+  color: #030303;
+}
+.navbar-light .navbar-nav .nav-link:focus,
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #3a8bcd;
+  background-color: #fff;
+  -webkit-transition: all 0.6s ease-in-out;
+  -moz-transition: all 0.6s ease-in-out;
+  -o-transition: all 0.6s ease-in-out;
+  transition: all 0.6s ease-in-out;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #3a8bcd;
+}
+
+.doctors {
+  margin-top: 150px;
+  margin-bottom: 50px;
+  width: 380px;
+}
+
+.doc {
+  width: 170px;
+  height: 170px;
+}
+.doctors h3 {
+  margin-bottom: 30px;
+  margin-left: 0px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.stars {
+  margin-top: 20px;
+  margin-left: 35px;
+  font-size: 25px;
+}
+.checked {
+  color: orange;
+}
+.doctors p {
+  margin-top: 26px;
+  width: 170px;
+  font-size: 20px;
+  font-weight: lighter;
+}
+.slider {
+  height: 580px;
+}
+
+.second-section {
+  background-color: #eee;
+  padding-top: 50px;
+  padding-bottom: 100px;
+}
+
+.second-section h3 {
+  padding-bottom: 10px;
+  padding-top: 15px;
+
+  margin-left: 10px;
+}
+.second-section p {
+  font-weight: 100;
+  color: #848282;
+  font-weight: 100;
+  font-size: 19px;
+  line-height: 1.6;
+  font-family: "Montserrat", sans-serif;
+  margin: 3px 16px 9px;
+}
+
+.second-section .media-body {
+  width: 400px;
+}
+.box {
+  height: 5px;
+  width: 5px;
+  background-color: #2980b9;
+  padding-top: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+  padding-left: 30px;
+  color: #2980b9;
+  border-width: 15px 15px 15px 15px;
+  border-color: #2980b9;
+  border-style: solid;
+
+  outline-color: #2980b9;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 20px;
+  position: relative;
+  left: -14px;
+}
+
+.second-section .k1 {
+  color: #eee;
+  margin-top: -40px;
+  margin-left: -34px;
+}
+.second-section .k2 {
+  color: #eee;
+  margin-top: -38px;
+  margin-left: -37px;
+}
+.second-section .k3 {
+  color: #eee;
+  margin-top: -39px;
+  margin-left: -29px;
+}
+.second-section hr {
+  margin-top: -8px;
+  background-color: #2980b9;
+  height: 4px;
+  margin-left: -14px;
+}
+
+.sixth-section {
+  min-height: 400px;
+}
+.sixth-section .pre {
+  margin-bottom: 20px;
+}
+.sixth-section h1 {
+  font-weight: bold;
+  margin-top: 100px;
+}
+.sixth-section hr {
+  width: 700px;
+  margin-bottom: 60px;
+}
+.sixth-section a {
+  color: #3a8bcd;
+}
+.sixth-section a:hover {
+  color: #3a8bcd;
+  text-decoration: none;
+}
+.sixth-section p {
+  padding-top: 17px;
+  font-size: 19px;
+  font-weight: 100;
+
+  color: black;
+  text-align: left;
+  line-height: 40px;
+}
+.sixth-section .btn {
+  margin-top: -19px;
+  margin-bottom: 17px;
+  background-color: #3a8bcd;
+  color: white;
+  width: 100px;
+  height: 40px;
+  font-size: 15px;
+}
+
+.sec {
+  line-height: 40px;
+}
+.thi {
+  line-height: 40px;
+}
+
+.sixth-section .form-control {
+  color: #252525;
+  width: 88%;
+  height: 59px;
+  padding: 6px 12px;
+  font-size: 15px;
+  margin-bottom: 40px;
+}
+
+.icons i {
+  margin-top: 40px;
+  margin-right: 20px;
+  margin-bottom: 10px;
+  color: #a5a5a5;
+  font-size: 50px;
+}
+.icons i:hover {
+  color: #3a8bcd;
+  -webkit-transition: all 0.6s ease-in-out;
+  -moz-transition: all 0.6s ease-in-out;
+  -o-transition: all 0.6s ease-in-out;
+  transition: all 0.6s ease-in-out;
+}
+.an {
+  color: #3a8bcd;
+}
+.an:hover {
+  color: #3a8bcd;
+  text-decoration: none;
+}
+
+.third {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+.carousel-indicators li {
+  margin-top: 300px;
+  background-color: #3a8bcd;
+  width: 8px;
+  height: 9px;
+  margin-right: 6px;
+}
+.carousel-indicators {
+  position: absolute;
+  right: 0;
+  bottom: -65px;
+  left: 0;
+}
+.third {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.third .col-lg-3 {
+  border: solid rgb(241, 241, 241) 1px;
+  margin-right: 28px;
+  -ms-flex: 0 0 25%;
+  flex: 0 0 30%;
+  max-width: 22%;
+}
+
+.third .col-lg-3 img {
+  padding-top: 15px;
+  display: block;
+  width: 100%;
+  height: 320px;
+}
+.third .col-lg-3 img:hover {
+  opacity: 0.7;
+  cursor: pointer;
+}
+
+.third .col-lg-3 h6 {
+  padding-top: 20px;
+}
+.third .col-lg-3 a {
+  font-weight: bold;
+  color: #3a8bcd;
+  padding-bottom: 20px;
+}
+
+.third h4 {
+  padding-bottom: 20px;
+  font-weight: bold;
+}
+.third .h4,
+h4 {
+  font-size: 1.5rem;
+  margin-left: 189px;
+}
+
+.container {
+  width: 100%;
+}
+
+.contact {
+  width: 100%;
+  height: 90vh;
+  display: flex;
+}
+
+.contact .leftSide {
+  height: 95%;
+  flex: 50%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.contact .rightSide {
+  height: 100%;
+  flex: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.contact .rightSide h1 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: 20;
+  font-size: 60px;
+  margin-left: 30px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: auto;
+  height: auto;
+  padding: 30px;
+}
+
+form input {
+  height: 60px;
+  width: 80%;
+  border: none;
+  border-bottom: 1px solid #121619;
+  color: black;
+  font-weight: bold;
+}
+
+form textarea {
+  margin-top: 20px;
+  height: 70px;
+  width: 80%;
+  border: none;
+  border-bottom: 1px solid #121619;
+  color: black;
+}
+input::placeholder,
+textarea::placeholder {
+  font-weight: bold;
+  color: rgb(156, 153, 153);
+  font-family: Arial, Helvetica, sans-serif;
+}
+form input:focus,
+textarea:focus {
+  outline: none;
+}
+
+form button {
+  margin-top: 50px;
+  width: 140px;
+  height: 40px;
+  border: none;
+  background-color: #3a8bcd;
+  color: whitesmoke;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.carousel-caption {
+  left: 165px;
+  bottom: 200px;
+  background-color: hsla(0, 0%, 97%, 0.3);
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 100px;
+  padding-right: 100px;
+  width: 600px;
+  border-radius: 100px;
+}
+
+.carousel-caption p {
+  color: black;
+}
+.carousel-caption h1 {
+  color: #3a8bcd;
+}
+
+.carta {
+  font-size: 20px;
+  color: #000000;
+}
+
+.contact {
+  width: 100%;
+  height: 90vh;
+  display: flex;
+}
+
+.contact .leftSide {
+  height: 100%;
+  flex: 50%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.contact .rightSide {
+  height: 100%;
+  flex: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.contact .rightSide h1 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: 10;
+  font-size: 50px;
+  margin-left: 30px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: auto;
+  height: auto;
+  padding: 30px;
+}
+
+form input {
+  height: 40px;
+  width: 80%;
+  border: none;
+  border-bottom: 1px solid #121619;
+  color: black;
+}
+
+form textarea {
+  margin-top: 15px;
+  height: 70px;
+  width: 80%;
+  border: none;
+  border-bottom: 1px solid #121619;
+  color: black;
+}
+input::placeholder,
+textarea::placeholder {
+  font-weight: bold;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+form input:focus,
+textarea:focus {
+  outline: none;
+}
+
+form label {
+  margin-top: 15px;
+  color: grey;
+}
+
+form button {
+  margin-top: 40px;
+  width: 140px;
+  height: 40px;
+  border: none;
+  background-color: #121619;
+  color: whitesmoke;
+  font-size: 15px;
+  cursor: pointer;
+}

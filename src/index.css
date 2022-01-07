@@ -1,0 +1,67 @@
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.div1 {
+  background-color: white;
+  border-radius: 4px;
+  box-shadow: 0 1px 4px black;
+  margin-left: 50px;
+  padding: 20px;
+  width: 300px;
+}
+.Dbtn {
+  background-color: #3a8bcd;
+  color: cornsilk;
+  border-radius: 3px;
+  padding: 10px;
+  width: 100px;
+  margin-left: 155px;
+}
+.Conbtn {
+  background-color: #3a8bcd;
+  color: cornsilk;
+  border-radius: 3px;
+  padding: 10px;
+  width: 100px;
+  margin: 10px;
+}
+.Canbtn {
+  background-color: white;
+  color: mediumvioletred;
+  border-radius: 3px;
+  padding: 10px;
+  width: 100px;
+  margin: 10px;
+}
+.div2 {
+  background-color: white;
+  border-radius: 4px;
+  box-shadow: 0 1px 4px #3a8bcd;
+  margin-left: 50px;
+  padding: 20px;
+  width: 300px;
+  height: 150px;
+  position: fixed;
+  z-index: 10;
+  top: 20vh;
+  left: calc(50% - 15rem);
+}
+.div3 {
+  text-align: center;
+}
+.backdrop {
+  position: fixed;
+  z-index: 1;
+  background-color: rgba(0, 0, 0, 0.75);
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+
+.mat {
+  width: 150px;
+  height: 120px;
+}
